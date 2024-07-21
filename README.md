@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jakub Bednarek</h1>
+<h3 align="center">A problem solver, data science learner, and a student from Poland</h3>
 
-<!--
-**Destray32/Destray32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=destray32" alt="Profile views"> 
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destray32&theme=gruvbox" alt="destray32" /></a> </p> 
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=destray32&show_icons=true&locale=en&theme=dracula" alt="Jakub's GitHub Stats">
+</p>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=destray32&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Jakub's Top Languages"> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=destray32&theme=dracula" alt="Jakub's GitHub Streak">
+</p>
