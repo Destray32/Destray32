@@ -12,7 +12,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=destray32&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Jakub's Top Languages"> 
+  <img src="https://github-readme-stats.vercel.app/api/top_langs/?username=destray32&layout=donut&theme=dracula" alt="Top Languages">
 </p>
 
 <p align="center">
