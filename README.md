@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destray32&theme=gruvbox" alt="destray32" /></a> </p> 
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=destray32&show_icons=true&locale=en&theme=dracula" alt="Jakub's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=destray32&show_icons=true&theme=dracula" alt="Jakub's GitHub Stats">
 </p>
   
 <p align="center">
