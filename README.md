@@ -2,7 +2,7 @@
 <h3 align="center">A problem solver, data science learner, and a student from Poland</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=destray32" alt="Profile views"> 
+  <img src="https://komarev.com/ghpvc/?username=destray32&color=blueviolet" alt="Profile views"> 
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destray32&theme=gruvbox" alt="destray32" /></a> </p> 
