@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub Bednarek</h1>
+<h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A problem solver, data science learner, and a student from Poland</h3>
 
 <p align="center">
